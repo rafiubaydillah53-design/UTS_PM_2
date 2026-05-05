@@ -47,7 +47,7 @@ Tujuan dari pembuatan aplikasi ini adalah:
 
 ## 🖼️ Tampilan Aplikasi
 
-*(Tambahkan screenshot aplikasi di sini)*
+![Tampilan Aplikasi](/demo.jpeg)
 
 ---
 
@@ -55,4 +55,4 @@ Tujuan dari pembuatan aplikasi ini adalah:
 
 Aplikasi ini masih dapat dikembangkan lebih lanjut dengan menambahkan fitur-fitur seperti notifikasi pengingat jadwal, peningkatan kecerdasan AI, dan pengembangan tampilan antarmuka.
 
-Demikian README ini dibuat sebagai bagian dari tugas [Nama Mata Kuliah].
+Demikian README ini dibuat sebagai bagian dari tugas UTS Pemrograman Web 2
